@@ -10,7 +10,7 @@ console.log(person);
 console.log(howOld, firstName);
 
 // Arrays
-let selectColours = ['Red', 'Blue'];
+let selectColours = ['Red', 'Blue', 'Purple'];
 console.log(selectColours);
 
 // You can see this running in the console for url 'http://127.0.0.1:5500/index.html'
